@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohammed Sultan</h1>
 <h3 align="center">A passionate full-stack developer from EGYPT</h3>
 
-- 🌱 I’m currently learning **AI**
+- 🌱 I’m currently learning **Bug Hunting**
 
 - 👨‍💻 All of my projects are available at [https://github.com/SULTVNN](https://github.com/SULTVNN)
 
