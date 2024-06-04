@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/SULTVNN](https://github.com/SULTVNN)
 
-- 📫 How to reach me **mmuhammedssultan@gmail.com**
+- 📫 How to reach me **m.sultan.dev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
