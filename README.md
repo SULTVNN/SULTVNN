@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mohammed Sultan</h1>
-<h3 align="center">A passionate full-stack developer from EGYPT</h3>
+<h3 align="center">A full-stack developer </h3>
 
-- 🌱 I’m currently learning **Bug Hunting**
+- 🌱 I’m currently learning **Design Software Architecture**
 
 - 👨‍💻 All of my projects are available at [https://github.com/SULTVNN](https://github.com/SULTVNN)
 
-- 📫 How to reach me **m.sultan.dev@gmail.com**
+- 📫 reach me **m.sultan.dev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
